@@ -1,0 +1,7 @@
+def printIn(n:str):int{
+	printf(n)
+}
+
+def main():int{
+	printIn("Hello")	
+}
